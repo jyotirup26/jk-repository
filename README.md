@@ -1,3 +1,3 @@
 # jk-repository
-first git reposority
+first git reposority.
 author-Jyotirup Kachary
